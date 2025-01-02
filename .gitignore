@@ -1,0 +1,20 @@
+# Node.js dependencies (if you're using Node.js or npm)
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings (if applicable)
+.idea/
+.vscode/
+
+# npm or yarn lock files (optional)
+package-lock.json
+yarn.lock

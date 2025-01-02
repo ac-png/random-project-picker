@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Rest Countries App",
+        "description": "A purely frontend SwiftUI app that fetches and displays country information from a public REST API (Rest Countries).",
+        "framework": "SwiftUI",
+        "difficulty": "Beginner",
+        "language": "Swift"
+    },
+    {
+        "name": "ToDo API",
+        "description": "A RESTful API for managing to-do tasks where users can add, update, and delete tasks.",
+        "framework": "Flask",
+        "difficulty": "Beginner",
+        "language": "Python"
+    },
+    {
+        "name": "Personal Blog API",
+        "description": "A simple REST API to create, update, and delete blog posts, using authentication for authors.",
+        "framework": "Flask",
+        "difficulty": "Beginner",
+        "language": "Python"
+    },
+    {
+        "name": "Weather API",
+        "description": "A backend service that fetches and serves weather data using an external API.",
+        "framework": "Django",
+        "difficulty": "Beginner",
+        "language": "Python"
+    },
+    {
+        "name": "User Management API",
+        "description": "An API for managing user accounts, including registration, login, and profile management.",
+        "framework": "Express",
+        "difficulty": "Beginner",
+        "language": "JavaScript"
+    },
+    {
+        "name": "Blog Backend",
+        "description": "A simple backend system for a blog, where users can create, edit, and delete blog posts.",
+        "framework": "Slim",
+        "difficulty": "Beginner",
+        "language": "PHP"
+    },
+    {
+        "name": "Authentication Service",
+        "description": "A simple API to handle user authentication, including sign-up, login, and token-based authentication.",
+        "framework": "Laravel",
+        "difficulty": "Beginner",
+        "language": "PHP"
+    },
+    {
+        "name": "Recipe Finder App",
+        "description": "An intermediate-level app that allows users to search for recipes by ingredients, dietary preferences, and cuisine. Fetches and displays recipe details, including ingredients, instructions, and nutritional information from a public API (e.g., Spoonacular or Edamam).",
+        "framework": "SwiftUI",
+        "difficulty": "Intermediate",
+        "language": "Swift"
+    },
+    {
+        "name": "Photo Gallery API",
+        "description": "A REST API for managing a photo gallery with features to upload, categorize, and fetch images.",
+        "framework": "Flask",
+        "difficulty": "Intermediate",
+        "language": "Python"
+    },
+    {
+        "name": "E-commerce API",
+        "description": "A backend API for managing an e-commerce platform, including products, categories, and user orders.",
+        "framework": "Flask",
+        "difficulty": "Intermediate",
+        "language": "Python"
+    },
+    {
+        "name": "Social Network API",
+        "description": "A RESTful API for a social network that allows users to post, comment, like, and follow others.",
+        "framework": "Django",
+        "difficulty": "Intermediate",
+        "language": "Python"
+    },
+    {
+        "name": "Real-Time Chat API",
+        "description": "A real-time chat application backend using WebSockets to handle instant messaging between users.",
+        "framework": "Express",
+        "difficulty": "Intermediate",
+        "language": "JavaScript"
+    },
+    {
+        "name": "Blog API with Admin Panel",
+        "description": "A backend blog API with an admin panel for managing users, posts, and comments.",
+        "framework": "Slim",
+        "difficulty": "Intermediate",
+        "language": "PHP"
+    },
+    {
+        "name": "Job Portal API",
+        "description": "A backend API for a job portal where employers can post job listings, and candidates can apply.",
+        "framework": "Laravel",
+        "difficulty": "Intermediate",
+        "language": "PHP"
+    },
+    {
+        "name": "Full-Stack Streaming Service",
+        "description": "A full-stack streaming platform allowing users to upload, stream videos, and manage their profile.",
+        "framework": "Flask, SwiftUI",
+        "difficulty": "Advanced",
+        "language": "Python, Swift"
+    },
+    {
+        "name": "E-commerce Platform with Admin Dashboard",
+        "description": "A full-stack e-commerce website with an admin dashboard for managing products, orders, and customers.",
+        "framework": "Django, SwiftUI",
+        "difficulty": "Advanced",
+        "language": "Python, Swift"
+    },
+    {
+        "name": "Real-Time Collaboration Tool",
+        "description": "A collaborative platform that supports live document editing and real-time synchronization for teams.",
+        "framework": "Express, SwiftUI",
+        "difficulty": "Advanced",
+        "language": "JavaScript, Swift"
+    },
+    {
+        "name": "Project Management System with Task Tracking",
+        "description": "A full-stack project management platform where teams can create, assign, and track tasks.",
+        "framework": "Slim, SwiftUI",
+        "difficulty": "Advanced",
+        "language": "PHP, Swift"
+    },
+    {
+        "name": "Event Booking System",
+        "description": "A full-stack platform for booking event tickets, managing reservations, and displaying event details.",
+        "framework": "Laravel, SwiftUI",
+        "difficulty": "Advanced",
+        "language": "PHP, Swift"
+    }
+]
